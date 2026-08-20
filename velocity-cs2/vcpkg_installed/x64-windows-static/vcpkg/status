@@ -1,0 +1,24 @@
+Package: vcpkg-cmake-config
+Version: 2026-07-21
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 165465e28d62995cfb1cd74f676909564236428622c78877f7f018f9ff99f4f3
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2024-04-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 4a20965fb7e9fc68dab964f4b935d56b56a781ac86d90dfb1796864029b83836
+Status: install ok installed
+
+Package: freetype
+Version: 2.14.3
+Depends: vcpkg-cmake:x64-windows, vcpkg-cmake-config:x64-windows
+Architecture: x64-windows-static
+Multi-Arch: same
+Abi: df6e3d02cbfba19ebca63c654e1692d1eda6d787de212960b24c2c74dfb66889
+Description: A library to render fonts.
+Default-Features: brotli, bzip2, png, zlib
+Status: install ok installed
+

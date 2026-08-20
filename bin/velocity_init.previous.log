@@ -1,0 +1,185 @@
+[2026-08-17 14:50:30.035] [INFO ] [P8516:T18060] diagnostics initialized; module=0x00007FFBDF7A0000 size=0x6FA000
+[2026-08-17 14:50:30.035] [DEBUG] [P8516:T18060] stage: dll attach
+[2026-08-17 14:50:30.035] [DEBUG] [P8516:T18060] build: development diagnostics
+[2026-08-17 14:50:30.035] [DEBUG] [P8516:T18060] stage: crt done, spawning thread
+[2026-08-17 14:50:30.035] [DEBUG] [P8516:T5948] stage: thread start
+[2026-08-17 14:50:30.065] [INFO ] [P8516:T5948] 
+[2026-08-17 14:50:30.065] [INFO ] [P8516:T5948] crash handlers installed
+[2026-08-17 14:50:30.065] [DEBUG] [P8516:T5948] stage: coinit
+[2026-08-17 14:50:30.065] [DEBUG] [P8516:T5948] stage: config
+[2026-08-17 14:50:30.068] [DEBUG] [P8516:T5948] stage: regions
+[2026-08-17 14:50:30.068] [DEBUG] [P8516:T5948] stage: logging
+[2026-08-17 14:50:30.150] [DEBUG] [P8516:T5948] stage: integrity
+[2026-08-17 14:50:30.150] [INFO ] [P8516:T5948] Source 2 fatal minidump path hooked
+[2026-08-17 14:50:30.150] [INFO ] [P8516:T5948] forced process termination capture hooked
+[2026-08-17 14:50:30.155] [DEBUG] [P8516:T5948] stage: addresses
+[2026-08-17 14:50:30.155] [INFO ] [P8516:T5948] [modules] client:              0x7ffbe1c70000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] engine2:             0x7ffc57c30000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] server:              0x7ffbe4430000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] scene_system:        0x7ffbef750000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] material_system2:    0x7ffc6e420000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] render_system_dx11:  0x7ffc58700000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] panorama:            0x7ffbe6be0000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] game_overlay:        0x7ffca6660000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] schema_system:       0x7ffc77af0000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] input_system:        0x7ffca9590000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] sound_system:        0x7ffbf00c0000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] tier0:               0x7ffc82990000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] particles:           0x7ffbeef30000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] resource_system:     0x7ffc7f7e0000
+[2026-08-17 14:50:30.157] [INFO ] [P8516:T5948] [modules] localize:            0x7ffca6360000
+[2026-08-17 14:50:30.158] [INFO ] [P8516:T5948] [modules] mesh_system:         0x7ffc600e0000
+[2026-08-17 14:50:30.158] [INFO ] [P8516:T5948] [modules] file_system_stdio:   0x7ffc602f0000
+[2026-08-17 14:50:30.158] [INFO ] [P8516:T5948] [modules] vphysics2:           0x7ffc53ea0000
+[2026-08-17 14:50:30.992] [DEBUG] [P8516:T5948] stage: systems
+[2026-08-17 14:50:31.223] [INFO ] [P8516:T5948] [model_preview] initialized
+[2026-08-17 14:50:31.223] [DEBUG] [P8516:T5948] stage: econ
+[2026-08-17 14:50:31.429] [DEBUG] [P8516:T5948] stage: hooks
+[2026-08-17 14:50:31.494] [INFO ] [P8516:T5948] [error] pattern not found | 48895C24184889742420574883EC20488D058AE04A01
+[2026-08-17 14:50:31.620] [INFO ] [P8516:T5948] failed to hook: parse_report_hit
+[2026-08-17 14:50:31.620] [INFO ] [P8516:T5948] skipping unavailable hook: parse_report_hit
+[2026-08-17 14:50:31.635] [INFO ] [P8516:T5948] feature hooks initialized with 1 unavailable
+[2026-08-17 14:50:31.635] [DEBUG] [P8516:T5948] stage: cvars
+[2026-08-17 14:50:31.635] [DEBUG] [P8516:T5948] stage: skyboxes
+[2026-08-17 14:50:31.635] [DEBUG] [P8516:T5948] stage: done
+[2026-08-17 14:50:40.947] [INFO ] [P8516:T24096] [scoreboard_weapons] level change — state reset
+[2026-08-17 14:50:40.948] [INFO ] [P8516:T24096] [scoreboard_weapons] level change — state reset
+[2026-08-17 14:50:41.172] [DEBUG] [P8516:T24096] create_move: feature pipeline begin
+[2026-08-17 14:50:41.172] [DEBUG] [P8516:T24096] create_move: shared and combat misc ready
+[2026-08-17 14:50:41.172] [DEBUG] [P8516:T24096] create_move: pre-combat movement end
+[2026-08-17 14:50:41.173] [DEBUG] [P8516:T24096] create_move: rage begin
+[2026-08-17 14:50:41.242] [DEBUG] [P8516:T24096] prediction: state saved
+[2026-08-17 14:50:41.242] [DEBUG] [P8516:T24096] prediction: context ready
+[2026-08-17 14:50:41.242] [DEBUG] [P8516:T24096] prediction: move ready
+[2026-08-17 14:50:41.242] [DEBUG] [P8516:T24096] prediction: movement processed
+[2026-08-17 14:50:41.242] [DEBUG] [P8516:T24096] prediction: move finished
+[2026-08-17 14:50:41.242] [DEBUG] [P8516:T24096] prediction: context cleaned
+[2026-08-17 14:50:41.242] [DEBUG] [P8516:T24096] prediction: callback begin
+[2026-08-17 14:50:41.246] [DEBUG] [P8516:T24096] prediction: callback end
+[2026-08-17 14:50:41.246] [DEBUG] [P8516:T24096] prediction: restore begin
+[2026-08-17 14:50:41.246] [DEBUG] [P8516:T24096] prediction: restore end
+[2026-08-17 14:50:41.246] [DEBUG] [P8516:T24096] create_move: rage end
+[2026-08-17 14:50:41.246] [DEBUG] [P8516:T24096] create_move: legit begin
+[2026-08-17 14:50:41.246] [DEBUG] [P8516:T24096] create_move: legit end
+[2026-08-17 14:50:41.247] [DEBUG] [P8516:T24096] create_move: post-combat movement end
+[2026-08-17 14:50:41.247] [DEBUG] [P8516:T24096] create_move: quickpeek end
+[2026-08-17 14:50:41.247] [DEBUG] [P8516:T24096] create_move: final subtick begin
+[2026-08-17 14:50:41.247] [DEBUG] [P8516:T24096] create_move: final subtick end
+[2026-08-17 14:50:41.247] [DEBUG] [P8516:T24096] create_move: input apply begin
+[2026-08-17 14:50:41.295] [DEBUG] [P8516:T24096] create_move: input apply end
+[2026-08-17 14:50:48.192] [INFO ] [P8516:T24096] [scoreboard_weapons] injecting HUD setup script (engine=0x3e48b149e00 panel=0x3e566735800)
+[2026-08-17 14:50:48.195] [INFO ] [P8516:T24096] [scoreboard_weapons] setup script injected
+[2026-08-17 14:50:55.872] [INFO ] [P8516:T24096] [error] pattern not found | >E8????????F3410F10B674FFFFFF
+[2026-08-17 14:51:07.156] [INFO ] [P8516:T24096] [rage] shot target hp 100 for 129 in head (hc 100%, bt 1t)
+[2026-08-17 14:51:07.292] [INFO ] [P8516:T24096] [rage] shot target hp 100 for 432 in head (hc 100%, bt 1t)
+[2026-08-17 14:51:07.347] [INFO ] [P8516:T24096] hit gazanuf for 184 in head (0 remaining)
+[2026-08-17 14:51:07.359] [INFO ] [P8516:T24096] [error] pattern not found | >E8????????4C39B5C8140000
+[2026-08-17 14:51:07.670] [INFO ] [P8516:T9528] missed gazanuf, targeted head (hc=100%, dmg=432, reason=spread)
+[2026-08-17 14:51:13.458] [INFO ] [P8516:T24096] [scoreboard_weapons] scoreboard opened; players=11 weapon_entities=44
+[2026-08-17 14:51:13.458] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198655774430 collected_weapons=4
+[2026-08-17 14:51:13.460] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199152003810 collected_weapons=3
+[2026-08-17 14:51:13.461] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198661250538 collected_weapons=5
+[2026-08-17 14:51:13.462] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198758906312 collected_weapons=4
+[2026-08-17 14:51:13.462] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198671801631 collected_weapons=4
+[2026-08-17 14:51:13.462] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198752220074 collected_weapons=3
+[2026-08-17 14:51:13.464] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198669952661 collected_weapons=7
+[2026-08-17 14:51:13.464] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199757141169 collected_weapons=6
+[2026-08-17 14:51:13.465] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198696234743 collected_weapons=0
+[2026-08-17 14:51:13.465] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198656010846 collected_weapons=3
+[2026-08-17 14:51:21.870] [INFO ] [P8516:T24096] [scoreboard_weapons] scoreboard opened; players=11 weapon_entities=43
+[2026-08-17 14:51:21.870] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198655774430 collected_weapons=3
+[2026-08-17 14:51:21.871] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199152003810 collected_weapons=3
+[2026-08-17 14:51:21.871] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198661250538 collected_weapons=5
+[2026-08-17 14:51:21.871] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198758906312 collected_weapons=4
+[2026-08-17 14:51:21.871] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198671801631 collected_weapons=4
+[2026-08-17 14:51:21.872] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198752220074 collected_weapons=3
+[2026-08-17 14:51:21.872] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198669952661 collected_weapons=7
+[2026-08-17 14:51:21.872] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199757141169 collected_weapons=6
+[2026-08-17 14:51:21.872] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198696234743 collected_weapons=0
+[2026-08-17 14:51:21.872] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198656010846 collected_weapons=3
+[2026-08-17 14:51:44.786] [INFO ] [P8516:T24096] [rage] shot target hp 100 for 77 in head (hc 100%, bt 1t)
+[2026-08-17 14:51:44.959] [INFO ] [P8516:T24096] hit x for 34 in chest, head was expected (server discrepancy) (66 remaining)
+[2026-08-17 14:51:46.402] [INFO ] [P8516:T24096] [rage] shot target hp 66 for 66 in head (hc 100%, bt 1t)
+[2026-08-17 14:51:46.567] [INFO ] [P8516:T24096] hit x for 120 in head (0 remaining)
+[2026-08-17 14:51:48.048] [INFO ] [P8516:T24096] [rage] shot target hp 100 for 442 in head (hc 100%, bt 1t)
+[2026-08-17 14:51:48.201] [INFO ] [P8516:T24096] hit isko for 442 in head (0 remaining)
+[2026-08-17 14:53:22.378] [INFO ] [P8516:T24096] hit gazanuf for 113 in head (0 remaining)
+[2026-08-17 14:53:45.437] [INFO ] [P8516:T24096] [scoreboard_weapons] scoreboard opened; players=11 weapon_entities=38
+[2026-08-17 14:53:45.437] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198655774430 collected_weapons=3
+[2026-08-17 14:53:45.438] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199152003810 collected_weapons=4
+[2026-08-17 14:53:45.438] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198661250538 collected_weapons=2
+[2026-08-17 14:53:45.439] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198758906312 collected_weapons=7
+[2026-08-17 14:53:45.439] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198671801631 collected_weapons=5
+[2026-08-17 14:53:45.439] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198752220074 collected_weapons=3
+[2026-08-17 14:53:45.439] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198669952661 collected_weapons=7
+[2026-08-17 14:53:45.439] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199757141169 collected_weapons=0
+[2026-08-17 14:53:45.441] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198696234743 collected_weapons=2
+[2026-08-17 14:53:45.441] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198656010846 collected_weapons=4
+[2026-08-17 14:53:58.065] [INFO ] [P8516:T24096] [scoreboard_weapons] scoreboard opened; players=11 weapon_entities=44
+[2026-08-17 14:53:58.065] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198655774430 collected_weapons=4
+[2026-08-17 14:53:58.066] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199152003810 collected_weapons=6
+[2026-08-17 14:53:58.066] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198661250538 collected_weapons=2
+[2026-08-17 14:53:58.066] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198758906312 collected_weapons=7
+[2026-08-17 14:53:58.066] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198671801631 collected_weapons=4
+[2026-08-17 14:53:58.066] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198752220074 collected_weapons=3
+[2026-08-17 14:53:58.066] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198669952661 collected_weapons=8
+[2026-08-17 14:53:58.068] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199757141169 collected_weapons=0
+[2026-08-17 14:53:58.068] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198696234743 collected_weapons=2
+[2026-08-17 14:53:58.068] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198656010846 collected_weapons=6
+[2026-08-17 14:54:12.010] [INFO ] [P8516:T24096] hit gazanuf for 444 in head (0 remaining)
+[2026-08-17 14:54:15.055] [INFO ] [P8516:T24096] hit isko for 178 in head (0 remaining)
+[2026-08-17 14:55:01.341] [INFO ] [P8516:T24096] [scoreboard_weapons] scoreboard opened; players=11 weapon_entities=20
+[2026-08-17 14:55:01.341] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198655774430 collected_weapons=0
+[2026-08-17 14:55:01.342] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199152003810 collected_weapons=0
+[2026-08-17 14:55:01.342] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198661250538 collected_weapons=3
+[2026-08-17 14:55:01.342] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198758906312 collected_weapons=0
+[2026-08-17 14:55:01.342] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198671801631 collected_weapons=0
+[2026-08-17 14:55:01.343] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198752220074 collected_weapons=3
+[2026-08-17 14:55:01.343] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198669952661 collected_weapons=0
+[2026-08-17 14:55:01.344] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199757141169 collected_weapons=0
+[2026-08-17 14:55:01.344] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198696234743 collected_weapons=0
+[2026-08-17 14:55:01.344] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198656010846 collected_weapons=0
+[2026-08-17 14:55:43.026] [INFO ] [P8516:T24096] [scoreboard_weapons] scoreboard opened; players=11 weapon_entities=38
+[2026-08-17 14:55:43.027] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198655774430 collected_weapons=3
+[2026-08-17 14:55:43.027] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199152003810 collected_weapons=5
+[2026-08-17 14:55:43.027] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198661250538 collected_weapons=0
+[2026-08-17 14:55:43.028] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198758906312 collected_weapons=3
+[2026-08-17 14:55:43.028] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198671801631 collected_weapons=6
+[2026-08-17 14:55:43.028] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198752220074 collected_weapons=4
+[2026-08-17 14:55:43.028] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198669952661 collected_weapons=6
+[2026-08-17 14:55:43.029] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199757141169 collected_weapons=0
+[2026-08-17 14:55:43.029] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198696234743 collected_weapons=5
+[2026-08-17 14:55:43.029] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198656010846 collected_weapons=2
+[2026-08-17 14:55:43.152] [INFO ] [P8516:T24096] [rage] shot target hp 8 for 19 in chest (hc 100%, bt 5t)
+[2026-08-17 14:55:43.299] [INFO ] [P8516:T24096] hit gazanuf for 29 in chest (0 remaining)
+[2026-08-17 14:55:47.001] [INFO ] [P8516:T24096] [scoreboard_weapons] scoreboard opened; players=11 weapon_entities=34
+[2026-08-17 14:55:47.001] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198655774430 collected_weapons=3
+[2026-08-17 14:55:47.001] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199152003810 collected_weapons=5
+[2026-08-17 14:55:47.001] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198661250538 collected_weapons=0
+[2026-08-17 14:55:47.001] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198758906312 collected_weapons=3
+[2026-08-17 14:55:47.002] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198671801631 collected_weapons=6
+[2026-08-17 14:55:47.002] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198752220074 collected_weapons=4
+[2026-08-17 14:55:47.002] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198669952661 collected_weapons=6
+[2026-08-17 14:55:47.002] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199757141169 collected_weapons=0
+[2026-08-17 14:55:47.002] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198696234743 collected_weapons=0
+[2026-08-17 14:55:47.002] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198656010846 collected_weapons=2
+[2026-08-17 14:56:28.693] [INFO ] [P8516:T24096] [rage] shot target hp 100 for 21 in neck (hc 100%, bt 5t)
+[2026-08-17 14:56:28.846] [INFO ] [P8516:T24096] hit suck for 153 in head, neck was expected (server discrepancy) (0 remaining)
+[2026-08-17 14:57:18.665] [INFO ] [P8516:T24096] [scoreboard_weapons] scoreboard opened; players=11 weapon_entities=26
+[2026-08-17 14:57:18.665] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198655774430 collected_weapons=2
+[2026-08-17 14:57:18.666] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199152003810 collected_weapons=4
+[2026-08-17 14:57:18.668] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198661250538 collected_weapons=3
+[2026-08-17 14:57:18.668] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198758906312 collected_weapons=2
+[2026-08-17 14:57:18.669] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198671801631 collected_weapons=2
+[2026-08-17 14:57:18.669] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198752220074 collected_weapons=2
+[2026-08-17 14:57:18.670] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198669952661 collected_weapons=2
+[2026-08-17 14:57:18.670] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561199757141169 collected_weapons=0
+[2026-08-17 14:57:18.670] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198696234743 collected_weapons=2
+[2026-08-17 14:57:18.671] [INFO ] [P8516:T24096] [scoreboard_weapons] xuid=76561198656010846 collected_weapons=2
+[2026-08-17 14:58:00.108] [INFO ] [P8516:T24096] [rage] shot target hp 60 for 33 in head (hc 100%, bt 1t)
+[2026-08-17 14:58:00.298] [INFO ] [P8516:T24096] hit suck for 90 in head (0 remaining)
+[2026-08-17 14:58:10.112] [INFO ] [P8516:T24096] [scoreboard_weapons] level change — state reset
+[2026-08-17 14:58:10.113] [INFO ] [P8516:T24096] [scoreboard_weapons] level change — state reset
+[2026-08-17 14:59:00.454] [INFO ] [P8516:T24096] [scoreboard_weapons] injecting HUD setup script (engine=0x3e48b149e00 panel=0x3e566735800)
+[2026-08-17 14:59:00.454] [INFO ] [P8516:T24096] [scoreboard_weapons] setup script injected
+[2026-08-17 15:15:54.532] [INFO ] [P8516:T24096] diagnostics shutting down

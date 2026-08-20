@@ -1,0 +1,316 @@
+[2026-08-17 15:34:45.092] [INFO ] [P26300:T3676] diagnostics initialized; module=0x00007FFBB9320000 size=0x6FE000
+[2026-08-17 15:34:45.092] [DEBUG] [P26300:T3676] stage: dll attach
+[2026-08-17 15:34:45.093] [DEBUG] [P26300:T3676] build: development diagnostics
+[2026-08-17 15:34:45.093] [DEBUG] [P26300:T3676] stage: crt done, spawning thread
+[2026-08-17 15:34:45.093] [DEBUG] [P26300:T11624] stage: thread start
+[2026-08-17 15:34:45.118] [INFO ] [P26300:T11624] 
+[2026-08-17 15:34:45.118] [INFO ] [P26300:T11624] crash handlers installed
+[2026-08-17 15:34:45.119] [DEBUG] [P26300:T11624] stage: coinit
+[2026-08-17 15:34:45.119] [DEBUG] [P26300:T11624] stage: config
+[2026-08-17 15:34:45.123] [DEBUG] [P26300:T11624] stage: regions
+[2026-08-17 15:34:45.123] [DEBUG] [P26300:T11624] stage: logging
+[2026-08-17 15:34:45.179] [DEBUG] [P26300:T11624] stage: integrity
+[2026-08-17 15:34:45.180] [INFO ] [P26300:T11624] Source 2 fatal minidump path hooked
+[2026-08-17 15:34:45.180] [INFO ] [P26300:T11624] forced process termination capture hooked
+[2026-08-17 15:34:45.184] [DEBUG] [P26300:T11624] stage: addresses
+[2026-08-17 15:34:45.184] [INFO ] [P26300:T11624] [modules] client:              0x7ffbb9a20000
+[2026-08-17 15:34:45.184] [INFO ] [P26300:T11624] [modules] engine2:             0x7ffbeb8e0000
+[2026-08-17 15:34:45.184] [INFO ] [P26300:T11624] [modules] server:              0x7ffbbc1e0000
+[2026-08-17 15:34:45.184] [INFO ] [P26300:T11624] [modules] scene_system:        0x7ffbe2800000
+[2026-08-17 15:34:45.184] [INFO ] [P26300:T11624] [modules] material_system2:    0x7ffbe9ca0000
+[2026-08-17 15:34:45.184] [INFO ] [P26300:T11624] [modules] render_system_dx11:  0x7ffbeaf30000
+[2026-08-17 15:34:45.184] [INFO ] [P26300:T11624] [modules] panorama:            0x7ffbdf9b0000
+[2026-08-17 15:34:45.184] [INFO ] [P26300:T11624] [modules] game_overlay:        0x7ffc53d20000
+[2026-08-17 15:34:45.184] [INFO ] [P26300:T11624] [modules] schema_system:       0x7ffc6e3c0000
+[2026-08-17 15:34:45.184] [INFO ] [P26300:T11624] [modules] input_system:        0x7ffc76c60000
+[2026-08-17 15:34:45.186] [INFO ] [P26300:T11624] [modules] sound_system:        0x7ffbe6730000
+[2026-08-17 15:34:45.186] [INFO ] [P26300:T11624] [modules] tier0:               0x7ffbeda70000
+[2026-08-17 15:34:45.186] [INFO ] [P26300:T11624] [modules] particles:           0x7ffbe1fe0000
+[2026-08-17 15:34:45.186] [INFO ] [P26300:T11624] [modules] resource_system:     0x7ffc72b40000
+[2026-08-17 15:34:45.186] [INFO ] [P26300:T11624] [modules] localize:            0x7ffc76c00000
+[2026-08-17 15:34:45.186] [INFO ] [P26300:T11624] [modules] mesh_system:         0x7ffbe8840000
+[2026-08-17 15:34:45.186] [INFO ] [P26300:T11624] [modules] file_system_stdio:   0x7ffbeb3e0000
+[2026-08-17 15:34:45.186] [INFO ] [P26300:T11624] [modules] vphysics2:           0x7ffbe6e10000
+[2026-08-17 15:34:45.737] [DEBUG] [P26300:T11624] stage: systems
+[2026-08-17 15:34:45.908] [INFO ] [P26300:T11624] [model_preview] initialized
+[2026-08-17 15:34:45.908] [DEBUG] [P26300:T11624] stage: econ
+[2026-08-17 15:34:46.080] [DEBUG] [P26300:T11624] stage: hooks
+[2026-08-17 15:34:46.145] [INFO ] [P26300:T11624] [error] pattern not found | 48895C24184889742420574883EC20488D058AE04A01
+[2026-08-17 15:34:46.251] [INFO ] [P26300:T11624] failed to hook: parse_report_hit
+[2026-08-17 15:34:46.251] [INFO ] [P26300:T11624] skipping unavailable hook: parse_report_hit
+[2026-08-17 15:34:46.259] [INFO ] [P26300:T11624] feature hooks initialized with 1 unavailable
+[2026-08-17 15:34:46.259] [DEBUG] [P26300:T11624] stage: cvars
+[2026-08-17 15:34:46.260] [DEBUG] [P26300:T11624] stage: skyboxes
+[2026-08-17 15:34:46.260] [DEBUG] [P26300:T11624] stage: done
+[2026-08-17 15:35:13.079] [INFO ] [P26300:T22420] [scoreboard_weapons] level change — state reset
+[2026-08-17 15:35:13.079] [INFO ] [P26300:T22420] [scoreboard_weapons] level change — state reset
+[2026-08-17 15:35:17.369] [DEBUG] [P26300:T22420] create_move: feature pipeline begin
+[2026-08-17 15:35:17.369] [DEBUG] [P26300:T22420] create_move: shared and combat misc ready
+[2026-08-17 15:35:17.369] [DEBUG] [P26300:T22420] create_move: pre-combat movement end
+[2026-08-17 15:35:17.369] [DEBUG] [P26300:T22420] create_move: rage begin
+[2026-08-17 15:35:17.406] [DEBUG] [P26300:T22420] prediction: state saved
+[2026-08-17 15:35:17.406] [DEBUG] [P26300:T22420] prediction: context ready
+[2026-08-17 15:35:17.406] [DEBUG] [P26300:T22420] prediction: move ready
+[2026-08-17 15:35:17.407] [DEBUG] [P26300:T22420] prediction: movement processed
+[2026-08-17 15:35:17.407] [DEBUG] [P26300:T22420] prediction: move finished
+[2026-08-17 15:35:17.407] [DEBUG] [P26300:T22420] prediction: context cleaned
+[2026-08-17 15:35:17.407] [DEBUG] [P26300:T22420] prediction: callback begin
+[2026-08-17 15:35:17.409] [DEBUG] [P26300:T22420] prediction: callback end
+[2026-08-17 15:35:17.409] [DEBUG] [P26300:T22420] prediction: restore begin
+[2026-08-17 15:35:17.409] [DEBUG] [P26300:T22420] prediction: restore end
+[2026-08-17 15:35:17.409] [DEBUG] [P26300:T22420] create_move: rage end
+[2026-08-17 15:35:17.409] [DEBUG] [P26300:T22420] create_move: legit begin
+[2026-08-17 15:35:17.409] [DEBUG] [P26300:T22420] create_move: legit end
+[2026-08-17 15:35:17.409] [DEBUG] [P26300:T22420] create_move: post-combat movement end
+[2026-08-17 15:35:17.409] [DEBUG] [P26300:T22420] create_move: quickpeek end
+[2026-08-17 15:35:17.409] [DEBUG] [P26300:T22420] create_move: final subtick begin
+[2026-08-17 15:35:17.409] [DEBUG] [P26300:T22420] create_move: final subtick end
+[2026-08-17 15:35:17.409] [DEBUG] [P26300:T22420] create_move: input apply begin
+[2026-08-17 15:35:17.452] [DEBUG] [P26300:T22420] create_move: input apply end
+[2026-08-17 15:35:33.573] [INFO ] [P26300:T22420] [error] pattern not found | >E8????????F3410F10B674FFFFFF
+[2026-08-17 15:35:37.557] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 46 in head (hc 100%, bt 1t)
+[2026-08-17 15:35:37.620] [INFO ] [P26300:T22420] hit telsen for 87 in head (13 remaining)
+[2026-08-17 15:35:37.631] [INFO ] [P26300:T22420] [error] pattern not found | >E8????????4C39B5C8140000
+[2026-08-17 15:35:44.390] [INFO ] [P26300:T22420] [rage] shot target hp 13 for 105 in head (hc 100%, bt 1t)
+[2026-08-17 15:35:44.402] [INFO ] [P26300:T22420] hit telsen for 162 in head (0 remaining)
+[2026-08-17 15:35:56.698] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 57 in head (hc 100%, bt 1t)
+[2026-08-17 15:35:56.723] [INFO ] [P26300:T22420] hit telsen for 105 in head (0 remaining)
+[2026-08-17 15:36:00.898] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 31 in head (hc 100%, bt 1t)
+[2026-08-17 15:36:01.280] [INFO ] [P26300:T4196] missed telsen, targeted head (hc=100%, dmg=31, reason=spread)
+[2026-08-17 15:36:10.320] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 34 in head (hc 100%, bt 1t)
+[2026-08-17 15:36:10.344] [INFO ] [P26300:T22420] hit telsen for 74 in head (26 remaining)
+[2026-08-17 15:36:11.587] [INFO ] [P26300:T22420] [rage] shot target hp 26 for 297 in head (hc 100%, bt 1t)
+[2026-08-17 15:36:11.613] [INFO ] [P26300:T22420] hit telsen for 297 in head (0 remaining)
+[2026-08-17 15:36:37.766] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 43 in neck (hc 100%, bt 1t)
+[2026-08-17 15:36:37.788] [INFO ] [P26300:T22420] hit telsen for 62 in chest, neck was expected (server discrepancy) (38 remaining)
+[2026-08-17 15:36:39.037] [INFO ] [P26300:T22420] [rage] shot target hp 38 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:36:39.048] [INFO ] [P26300:T22420] hit telsen for 347 in head (0 remaining)
+[2026-08-17 15:36:43.518] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 16 in head (hc 100%, bt 1t)
+[2026-08-17 15:36:43.532] [INFO ] [P26300:T22420] hit telsen for 60 in head (40 remaining)
+[2026-08-17 15:36:44.797] [INFO ] [P26300:T22420] [rage] shot target hp 40 for 95 in head (hc 100%, bt 12t)
+[2026-08-17 15:36:44.822] [INFO ] [P26300:T22420] hit telsen for 154 in head (0 remaining)
+[2026-08-17 15:36:56.520] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 16 in head (hc 100%, bt 1t)
+[2026-08-17 15:36:56.532] [INFO ] [P26300:T22420] hit telsen for 59 in head (41 remaining)
+[2026-08-17 15:36:57.810] [INFO ] [P26300:T22420] [rage] shot target hp 41 for 67 in head (hc 100%, bt 1t)
+[2026-08-17 15:36:57.834] [INFO ] [P26300:T22420] hit telsen for 123 in head (0 remaining)
+[2026-08-17 15:37:02.357] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 342 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:02.382] [INFO ] [P26300:T22420] hit telsen for 228 in head (0 remaining)
+[2026-08-17 15:37:05.873] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 152 in head (hc 100%, bt 12t)
+[2026-08-17 15:37:05.897] [INFO ] [P26300:T22420] hit telsen for 230 in head (0 remaining)
+[2026-08-17 15:37:15.097] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 147 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.143] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.177] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.201] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.249] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.283] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.318] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.342] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.377] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.412] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.446] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.470] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.517] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.552] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.588] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.635] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.682] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.705] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.740] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.775] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.797] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.833] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.868] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.892] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.938] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:15.975] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.010] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.032] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.080] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.114] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.151] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.173] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.208] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.255] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 351 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.290] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.314] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.348] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.453] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.501] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.593] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.631] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.654] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.689] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 350 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.724] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.761] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.784] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.832] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.865] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.913] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.936] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:16.974] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.009] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 349 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.031] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 348 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.066] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 348 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.100] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 348 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.149] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 348 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.171] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 348 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.207] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 348 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.242] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 348 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.265] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 348 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.300] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 348 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.346] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.382] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.475] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.499] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.535] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.570] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.594] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.630] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.677] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.724] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.759] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.805] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.830] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.899] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.947] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:17.994] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.018] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.052] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.088] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.111] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.180] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.228] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.287] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.324] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 12t)
+[2026-08-17 15:37:18.345] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 12t)
+[2026-08-17 15:37:18.378] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 12t)
+[2026-08-17 15:37:18.415] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 12t)
+[2026-08-17 15:37:18.438] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 12t)
+[2026-08-17 15:37:18.487] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 140 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.582] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 145 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.640] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 149 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.688] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 152 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.734] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 151 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.769] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 149 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.804] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 148 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.850] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 145 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.873] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 144 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.909] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 142 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.956] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 139 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:18.990] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 159 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.049] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.085] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.119] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.166] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.188] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 346 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.224] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.270] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.317] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.364] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.398] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.447] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.470] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.516] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.564] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.599] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.634] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.657] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.703] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.796] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.844] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.914] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.939] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:19.985] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.055] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.078] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.114] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.148] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.172] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.218] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.255] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.314] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.348] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.384] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.407] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.442] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.477] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.502] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.536] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.583] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.618] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.664] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.709] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.735] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.781] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.850] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.874] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.908] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.944] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:20.979] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.002] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.037] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.072] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.095] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.130] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.177] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.223] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.259] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.330] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.377] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.412] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.447] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.493] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.516] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.554] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.578] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.612] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.646] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.704] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.741] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.775] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.822] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.846] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.880] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.916] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.940] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:21.975] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:22.022] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:22.057] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:22.104] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:22.126] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:22.162] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:22.209] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 347 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:30.835] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 55 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:30.848] [INFO ] [P26300:T22420] hit telsen for 106 in head (0 remaining)
+[2026-08-17 15:37:36.155] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 343 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:36.177] [INFO ] [P26300:T22420] hit telsen for 343 in head (0 remaining)
+[2026-08-17 15:37:58.544] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 58 in head (hc 100%, bt 1t)
+[2026-08-17 15:37:58.556] [INFO ] [P26300:T22420] hit telsen for 118 in head (0 remaining)
+[2026-08-17 15:38:02.458] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 162 in head (hc 100%, bt 1t)
+[2026-08-17 15:38:02.472] [INFO ] [P26300:T22420] hit telsen for 243 in head (0 remaining)
+[2026-08-17 15:38:12.137] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 343 in head (hc 100%, bt 1t)
+[2026-08-17 15:38:12.149] [INFO ] [P26300:T22420] hit telsen for 343 in head (0 remaining)
+[2026-08-17 15:38:19.665] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 138 in head (hc 100%, bt 1t)
+[2026-08-17 15:38:19.677] [INFO ] [P26300:T22420] hit telsen for 212 in head (0 remaining)
+[2026-08-17 15:38:27.230] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 82 in head (hc 100%, bt 1t)
+[2026-08-17 15:38:27.254] [INFO ] [P26300:T22420] hit telsen for 141 in head (0 remaining)
+[2026-08-17 15:38:30.376] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 339 in head (hc 100%, bt 1t)
+[2026-08-17 15:38:30.387] [INFO ] [P26300:T22420] hit telsen for 339 in head (0 remaining)
+[2026-08-17 15:38:38.094] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 71 in head (hc 100%, bt 1t)
+[2026-08-17 15:38:38.105] [INFO ] [P26300:T22420] hit telsen for 129 in head (0 remaining)
+[2026-08-17 15:38:41.588] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 140 in head (hc 100%, bt 12t)
+[2026-08-17 15:38:41.612] [INFO ] [P26300:T22420] hit telsen for 216 in head (0 remaining)
+[2026-08-17 15:38:45.046] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 170 in head (hc 100%, bt 12t)
+[2026-08-17 15:38:45.058] [INFO ] [P26300:T22420] hit telsen for 248 in head (0 remaining)
+[2026-08-17 15:39:14.047] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 101 in head (hc 100%, bt 1t)
+[2026-08-17 15:39:14.059] [INFO ] [P26300:T22420] hit telsen for 163 in head (0 remaining)
+[2026-08-17 15:39:17.743] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 137 in head (hc 100%, bt 12t)
+[2026-08-17 15:39:17.766] [INFO ] [P26300:T22420] hit telsen for 211 in head (0 remaining)
+[2026-08-17 15:39:31.243] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 109 in head (hc 100%, bt 1t)
+[2026-08-17 15:39:31.266] [INFO ] [P26300:T22420] hit telsen for 172 in head (0 remaining)
+[2026-08-17 15:39:35.550] [INFO ] [P26300:T22420] [rage] shot target hp 100 for 19 in head (hc 100%, bt 1t)
+[2026-08-17 15:39:35.561] [INFO ] [P26300:T22420] hit telsen for 16 in chest, head was expected (server discrepancy) (84 remaining)
+[2026-08-17 15:39:38.670] [INFO ] [P26300:T22420] [rage] shot target hp 84 for 20 in head (hc 100%, bt 1t)
+[2026-08-17 15:39:38.681] [INFO ] [P26300:T22420] hit telsen for 64 in head (20 remaining)
+[2026-08-17 15:39:42.566] [INFO ] [P26300:T22420] [rage] shot target hp 20 for 334 in head (hc 100%, bt 5t)
+[2026-08-17 15:39:46.254] [INFO ] [P26300:T22420] diagnostics shutting down
